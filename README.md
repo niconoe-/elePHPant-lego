@@ -8,4 +8,6 @@ Parts list which can be imported to bricklink.com (inofficial)
 
 [My-elePHPant.xml](My-elePHPant.xml)
 
-UNDER PROGRESS- not complete yet
+### Status
+
+List should be complete, but please verify
