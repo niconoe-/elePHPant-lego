@@ -16,6 +16,6 @@ List should be complete, but please verify
 
 Stickers for Eyes and PHP Logo
 
-[stickers.svg][stickers.svg]
+[stickers.svg](stickers.svg)
 
 I might have some spare stickers ordered from Sticker Mule, you can [contact me](https://self-soft.de/).
