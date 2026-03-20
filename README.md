@@ -22,7 +22,7 @@ Stickers for Eyes and PHP Logo
 
 [stickers.svg](stickers.svg)
 
-I might have some spare stickers ordered from Sticker Mule, you can [contact me](https://self-soft.de/).
+I have 7 spare sticker sets ordered from Sticker Mule, you can [contact me](https://self-soft.de/).
 
 ### Modification
 
