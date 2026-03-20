@@ -1,5 +1,9 @@
 # JetBrains My elePHPant lego set parts list
 
+![elephpant](result.jpg)
+
+## Build instructions 
+
 * https://resources.jetbrains.com/storage/products/phpstorm/docs/lego-instruction.pdf
 
 ## Parts list
