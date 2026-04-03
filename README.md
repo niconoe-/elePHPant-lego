@@ -42,4 +42,4 @@ I did this in [My-elePHPant-modified3009.xml](https://raw.githubusercontent.com/
 
 ## Showroom
 
-Please post your results in the [discussion thread](https://github.com/self-soft/elePHPant-lego).
+Please post your results in the [[discussion thread](https://github.com/self-soft/elePHPant-lego/discussions/2)
