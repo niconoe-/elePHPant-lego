@@ -22,7 +22,7 @@ Stickers for Eyes and PHP Logo
 
 [stickers.svg](stickers.svg)
 
-I have 7 spare sticker sets ordered from Sticker Mule, you can [contact me](https://self-soft.de/).
+I have 6 spare sticker sets ordered from Sticker Mule, you can [contact me](https://self-soft.de/).
 
 ### Modification
 
@@ -40,8 +40,6 @@ I did this in [My-elePHPant-modified3009.xml](https://raw.githubusercontent.com/
 4. Choose Copy paste [My-elePHPant.xml](https://raw.githubusercontent.com/self-soft/elePHPant-lego/refs/heads/trunk/My-elePHPant.xml) from this repository
 5. Hit buy all and have fun to optimize the carts.
 
+## Showroom
 
-
-
-
-
+Please post your results in the [discussion thread](https://github.com/self-soft/elePHPant-lego).
